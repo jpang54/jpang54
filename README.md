@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpang54
 - 👀 I’m interested in AI/ML and modding
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning Python and SQL
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 --->
